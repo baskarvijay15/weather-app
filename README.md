@@ -4,10 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Search results: 
 
-![Uploading Bangalore.png…]()
-![Uploading Maharashtra.png…]()
+![Maharashtra](https://user-images.githubusercontent.com/67138568/109429673-f7cfce80-7a22-11eb-9a2e-b29054ef7919.png)
+![Bangalore](https://user-images.githubusercontent.com/67138568/109429675-f9999200-7a22-11eb-98dc-a25a577ad67d.png)
 
-## Available Scripts
+## Available Scripts![Uploading Bangalore.png…]()
+
 
 In the project directory, you can run:
 
